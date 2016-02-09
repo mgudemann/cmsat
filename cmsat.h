@@ -1,6 +1,6 @@
 #pragma once
 
-#include "cryptominisat4/cryptominisat.h"
+#include <cryptominisat4/cryptominisat.h>
 #include <vector>
 
 using namespace CMSat;
